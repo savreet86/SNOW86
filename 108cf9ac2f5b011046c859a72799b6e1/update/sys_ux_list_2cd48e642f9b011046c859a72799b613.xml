@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list">
+    <sys_ux_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Sav_Request">dcd48e642f9b011046c859a72799b609</category>
+        <columns>number,priority,state,assigned_to,short_description,sys_class_name</columns>
+        <condition table="x_816229_service_0_request">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <configuration display_value="Sav Service Request_menu_config">9cd48e642f9b011046c859a72799b607</configuration>
+        <group_by_column/>
+        <groups/>
+        <list_attributes/>
+        <order>10</order>
+        <roles/>
+        <sys_class_name>sys_ux_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-03 08:04:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2cd48e642f9b011046c859a72799b613</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Service Request" source="x_816229_service_0">108cf9ac2f5b011046c859a72799b6e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Request">108cf9ac2f5b011046c859a72799b6e1</sys_scope>
+        <sys_update_name>sys_ux_list_2cd48e642f9b011046c859a72799b613</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-03 08:04:24</sys_updated_on>
+        <table>x_816229_service_0_request</table>
+        <title>Open</title>
+    </sys_ux_list>
+</record_update>
