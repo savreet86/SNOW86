@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="DELETE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_816229_service_0.Admin" name="x_816229_service_0.Admin">5f6ad6282fdb011046c859a72799b602</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-03 09:39:27</sys_created_on>
+        <sys_id>c99ad6282fdb011046c859a72799b645</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_816229_service_0.Admin</sys_name>
+        <sys_package display_value="Service Request" source="x_816229_service_0">108cf9ac2f5b011046c859a72799b6e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Request">108cf9ac2f5b011046c859a72799b6e1</sys_scope>
+        <sys_update_name>sys_user_role_contains_c99ad6282fdb011046c859a72799b645</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-03 09:39:27</sys_updated_on>
+    </sys_user_role_contains>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Service Request">108cf9ac2f5b011046c859a72799b6e1</application>
+        <file_path/>
+        <instance_id>248edb16dbc5801491232f17d4961905</instance_id>
+        <instance_name>dev94654</instance_name>
+        <name>sys_user_role_contains_c99ad6282fdb011046c859a72799b645</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains><role display_value="x_816229_service_0.Admin" name="x_816229_service_0.Admin">5f6ad6282fdb011046c859a72799b602</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-03 09:39:27</sys_created_on><sys_id>c99ad6282fdb011046c859a72799b645</sys_id><sys_mod_count>0</sys_mod_count><sys_name>canvas_user.x_816229_service_0.Admin</sys_name><sys_package display_value="Service Request" source="x_816229_service_0">108cf9ac2f5b011046c859a72799b6e1</sys_package><sys_policy/><sys_scope display_value="Service Request">108cf9ac2f5b011046c859a72799b6e1</sys_scope><sys_update_name>sys_user_role_contains_c99ad6282fdb011046c859a72799b645</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-03 09:39:27</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+        <payload_hash>1711819583</payload_hash>
+        <record_name>canvas_user.x_816229_service_0.Admin</record_name>
+        <reverted_from/>
+        <source>988cf9ac2f5b011046c859a72799b6e3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-03 09:39:28</sys_created_on>
+        <sys_id>c19a5a282fdb011046c859a72799b686</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1808949f8d40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-03 09:39:28</sys_updated_on>
+        <type>Contained Role</type>
+        <update_guid>0d9a5a2810db0110fed3e984d1dbb785</update_guid>
+        <update_guid_history>0d9a5a2810db0110fed3e984d1dbb785:1711819583</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-03 09:43:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role_contains">sys_user_role_contains</sys_db_object>
+        <sys_id>40b54a9d8bae4739b678859f45340e81</sys_id>
+        <sys_metadata>c99ad6282fdb011046c859a72799b645</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_816229_service_0.Admin</sys_name>
+        <sys_package display_value="Service Request" source="x_816229_service_0">108cf9ac2f5b011046c859a72799b6e1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Service Request">108cf9ac2f5b011046c859a72799b6e1</sys_scope>
+        <sys_scope_delete display_value="">0a0dfb55ce324f828069a7878e4e5a49</sys_scope_delete>
+        <sys_update_name>sys_user_role_contains_c99ad6282fdb011046c859a72799b645</sys_update_name>
+        <sys_update_version display_value="sys_user_role_contains_c99ad6282fdb011046c859a72799b645">c19a5a282fdb011046c859a72799b686</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-03 09:43:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

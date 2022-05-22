@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Service Request ">736f82ec2f9b011046c859a72799b6ee</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-03 08:56:31</sys_created_on>
+        <sys_id>08c0d2202fdb011046c859a72799b623</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Service Request </sys_name>
+        <sys_package display_value="Service Request" source="x_816229_service_0">108cf9ac2f5b011046c859a72799b6e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Request">108cf9ac2f5b011046c859a72799b6e1</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_08c0d2202fdb011046c859a72799b623</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-03 08:56:31</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Service Request">108cf9ac2f5b011046c859a72799b6e1</application>
+        <file_path/>
+        <instance_id>248edb16dbc5801491232f17d4961905</instance_id>
+        <instance_name>dev94654</instance_name>
+        <name>sc_cat_item_catalog_08c0d2202fdb011046c859a72799b623</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Service Request ">736f82ec2f9b011046c859a72799b6ee</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-03 08:56:31</sys_created_on><sys_id>08c0d2202fdb011046c859a72799b623</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Service Request </sys_name><sys_package display_value="Service Request" source="x_816229_service_0">108cf9ac2f5b011046c859a72799b6e1</sys_package><sys_policy/><sys_scope display_value="Service Request">108cf9ac2f5b011046c859a72799b6e1</sys_scope><sys_update_name>sc_cat_item_catalog_08c0d2202fdb011046c859a72799b623</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-03 08:56:31</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1470937872</payload_hash>
+        <record_name>Service Catalog.Service Request </record_name>
+        <reverted_from/>
+        <source>988cf9ac2f5b011046c859a72799b6e3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-03 08:56:32</sys_created_on>
+        <sys_id>ccc0d2202fdb011046c859a72799b628</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1808922aa410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-03 08:56:32</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>44c0d2206bdb011057c86061b177e228</update_guid>
+        <update_guid_history>44c0d2206bdb011057c86061b177e228:-1470937872</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Service Request ">4de056202fdb011046c859a72799b637</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-03 08:57:08</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>2cdec4245acc4092adcd6d60011bd404</sys_id>
+        <sys_metadata>08c0d2202fdb011046c859a72799b623</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Service Request </sys_name>
+        <sys_package display_value="Service Request" source="x_816229_service_0">108cf9ac2f5b011046c859a72799b6e1</sys_package>
+        <sys_parent display_value="">736f82ec2f9b011046c859a72799b6ee</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Service Request">108cf9ac2f5b011046c859a72799b6e1</sys_scope>
+        <sys_scope_delete display_value="">0a0dfb55ce324f828069a7878e4e5a49</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_08c0d2202fdb011046c859a72799b623</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_08c0d2202fdb011046c859a72799b623">ccc0d2202fdb011046c859a72799b628</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-03 08:57:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

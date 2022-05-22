@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Sav_Request" language="en" table="x_816229_service_0_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Sav_Request</label>
+            <language>en</language>
+            <name>x_816229_service_0_request</name>
+            <plural>Sav_Requests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-03 07:36:05</sys_created_on>
+            <sys_id>395eb1202f9b011046c859a72799b61c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Sav_Request</sys_name>
+            <sys_package display_value="Service Request" source="x_816229_service_0">108cf9ac2f5b011046c859a72799b6e1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Service Request">108cf9ac2f5b011046c859a72799b6e1</sys_scope>
+            <sys_update_name>sys_documentation_x_816229_service_0_request__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-03 08:01:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
